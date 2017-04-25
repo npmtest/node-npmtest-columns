@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [columns (v0.8.0)](https://github.com/arjunmehta/node-columns)  [![npm package](https://img.shields.io/npm/v/npmtest-columns.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-columns) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-columns.svg)](https://travis-ci.org/npmtest/node-npmtest-columns)",
+    "description": "#### basic test coverage for  [columns (v0.8.0)](https://github.com/arjunmehta/node-columns)  [![npm package](https://img.shields.io/npm/v/npmtest-columns.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-columns) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-columns.svg)](https://travis-ci.org/npmtest/node-npmtest-columns)",
     "devDependencies": {
         "columns": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
